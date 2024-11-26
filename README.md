@@ -1,11 +1,7 @@
 # Скрипт чтения логов
 Скрипт считывает логи, из файла __access.log__ и формирует краткий отчет в файл __report.txt__.
 
-<<<<<<< HEAD
-![Proccess Screen](main.png)
-=======
-![Proccess Screen](source\img\main.png)
->>>>>>> ff0ec3d445ccf41b905d02ac5a3654d749fa5eeb
+![Proccess Screen](main.PNG)
 
 ## Технологии
 - bash
