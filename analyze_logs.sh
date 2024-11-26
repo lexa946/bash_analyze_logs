@@ -56,3 +56,5 @@ END {
 }
 ' $log_file_name)
 echo Most popular URL: $most_popular_url >> $report_file_name
+
+echo Report save to file $report_file_name
