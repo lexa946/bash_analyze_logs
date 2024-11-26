@@ -1,0 +1,10 @@
+Report about logs from web-server
+=================================
+Total count requests: 6
+Total unique ip-addresses: 4
+ 
+Requests method counter:
+	 1 POST
+	 5 GET
+ 
+Most popular URL: 3 index.html
